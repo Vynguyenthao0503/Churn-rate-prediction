@@ -5,4 +5,4 @@ This study aims to build a model predicting the churn rate of customers using mo
 [Link](https://www.science-gate.com/IJAAS/2022/V9I7/1021833ijaas202207014.html)
 
 ---
-[1] Thanh, Nguyen Thi Ha, et al. “Building a Proper Churn Prediction Model for Vietnam’s Mobile Banking Service.” International Journal of ADVANCED AND APPLIED SCIENCES, vol. 9, no. 7, July 2022, pp. 139–49. DOI.org (Crossref), https://doi.org/10.21833/ijaas.2022.07.014.
+[1] N. T. H. Thanh, N. T. Vy, and MB Shinsei Finance Limited Liability Company, Hanoi, Vietnam, “Building a proper churn prediction model for Vietnam’s mobile banking service,” Int. j. adv. appl. sci., vol. 9, no. 7, pp. 139–149, Jul. 2022, doi: 10.21833/ijaas.2022.07.014.
